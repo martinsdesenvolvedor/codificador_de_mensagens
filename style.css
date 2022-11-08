@@ -5,14 +5,16 @@
 }
 
 body {
+  height: 100%;
   background-image: url(imagens/matrix_gif.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center;
   background-attachment: fixed;
 }
 
 header {
-  padding: 1rem;
+  padding: 2rem;
 }
 
 h1 {
@@ -86,7 +88,7 @@ main {
 }
 
 footer {
-  padding: 1rem 7rem;
+  padding: 5rem 7rem 2rem 7rem;
 }
 
 h3,
